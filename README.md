@@ -1,2 +1,2 @@
 # pcnate_sublime_settings
-settings that I like to use within Sublime Text
+User and syntax settings that I like to use within Sublime Text 2
